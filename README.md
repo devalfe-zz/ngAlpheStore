@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-# NgDemo
+# ngAlpheStore
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
@@ -27,6 +28,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
-# ngDemo
-Angular 4 proyecto demo
->>>>>>> d6dea8f6e9a4df35a27ff2fe9eecaf9c408590be
+# ngAlpheStore
+
+Angular 4 proyecto ngAlpheStore
